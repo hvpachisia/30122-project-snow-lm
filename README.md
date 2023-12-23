@@ -1,7 +1,5 @@
 # Natural Disasters in the United States: Frequency, Cost & Politics
 
-Final Project for CAPP122
-
 ### Team
 
 Jackie Glasheen, Harsh Vardhan Pachisia, Shwetha Srinivasan, and Jennifer Yeaton
