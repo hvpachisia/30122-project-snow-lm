@@ -1,4 +1,4 @@
-# Project Snow-Laughing-Matter
+# Natural Disasters in the United States: Frequency, Cost & Politics
 
 Final Project for CAPP122
 
